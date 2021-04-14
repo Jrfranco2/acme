@@ -8,6 +8,34 @@ This application has been developed in JavaScript.
 In this space I provide everything needed to run the program and an overview of how I did it.
 
 ## Quickstart
+In mi case I used Visual Studio Code to program
+
+To run de program I used a local server, I used Live Server, you can install it in the extensions tab and search for LiveServer
+![](docs/liveServer.png)
+
+
+## App 
+
+Clone the project:
+
+```
+git clone https://github.com/Jrfranco2/acme.git
+```
+
+Open the app directory with Code Editor:
+
+```
+Visual Studio Code
+```
+
+Open with Live Server
+
+```
+Live Server
+```
+## Test
+
+
 
 <details>
 <summary>Problem Description</summary>
